@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chainsactions/static/css/main.e7ee5bee.css",
+    "main.js": "/chainsactions/static/js/main.057778b6.js",
+    "index.html": "/chainsactions/index.html",
+    "main.e7ee5bee.css.map": "/chainsactions/static/css/main.e7ee5bee.css.map",
+    "main.057778b6.js.map": "/chainsactions/static/js/main.057778b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ee5bee.css",
+    "static/js/main.057778b6.js"
+  ]
+}
