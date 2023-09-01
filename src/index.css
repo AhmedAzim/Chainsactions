@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Global Styles */
+
 body {
   background-color: #000915;
   width: 100%;
